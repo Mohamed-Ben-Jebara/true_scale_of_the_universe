@@ -1,7 +1,7 @@
 h1,
 h2,
 p {
-    text-align: center;
+    font-size: medium;
     color: azure;
 }
 
@@ -24,4 +24,11 @@ iframe {
     margin: auto;
     width: 90%;
     height: 720px;
+}
+
+img {
+    width: 99%;
+    height: auto;
+    margin: 0 auto;
+
 }
